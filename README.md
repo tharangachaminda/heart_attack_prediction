@@ -19,3 +19,5 @@ I will be using [Heart Attack Analysis & Prediction Dataset](https://www.kaggle.
 4. GridSearchCV for parameter tuning
 5. Matplotlib and Seaborn as the graphing libraries
 
+## Demo
+[Try it on my profile](http://ec2-34-215-236-233.us-west-2.compute.amazonaws.com/heart_attack_prediction)
